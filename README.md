@@ -1,1 +1,5 @@
-[![Join our Discord server!](https://invidget.switchblade.xyz/pjsdJp96mY)](http://discord.gg/pjsdJp96mY)
+<div align="center">
+  <a href="http://discord.gg/pjsdJp96mY">
+    <img src="https://invidget.switchblade.xyz/pjsdJp96mY" alt="Join our Discord server!">
+  </a>
+</div>
